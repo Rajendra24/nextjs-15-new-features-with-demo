@@ -1,0 +1,35 @@
+{
+  "name": "nextjs15-new-features",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A comprehensive demonstration of all the new features introduced in Next.js 15",
+  "author": {
+    "name": "Rajendra Kumar Arya",
+    "url": "https://github.com/Rajendra24/nextjs-15-new-features-with-demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rajendra24/nextjs-15-new-features-with-demo.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "next": "15.2.4",
+    "react": "^19",
+    "react-dom": "^19",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
